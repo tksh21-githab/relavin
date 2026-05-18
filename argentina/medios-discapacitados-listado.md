@@ -37,11 +37,10 @@ A diferencia del resto de América Latina, en la Argentina el término "discapac
 
 ### Clarín
 
-**Correos sugeridos:**
-- Cartas de lectores: cartas@clarin.com
-- Lectores: lectores@clarin.com.ar
+**Vía de contacto vigente:**
+- Formulario web del Centro de Ayuda: <https://www.clarin.com/centro-de-ayuda.html>
 
-**Nota:** Clarín utiliza el término en numerosos artículos de pensiones, transporte y políticas sociales. Recomendamos revisar antes de enviar.
+**Nota:** Los correos públicos previos (cartas@clarin.com, lectores@clarin.com.ar) ya no se encuentran activos y los envíos rebotan. La única vía actualmente operativa es el formulario del Centro de Ayuda. Clarín utiliza el término "discapacitados" en numerosos artículos de pensiones, transporte y políticas sociales: recomendamos revisar antes de enviar.
 
 ### Infobae
 
@@ -114,7 +113,7 @@ A diferencia del resto de América Latina, en la Argentina el término "discapac
 ### BBC Mundo
 
 **Vías de contacto:**
-- Formulario oficial de contacto: <https://www.bbc.com/mundo/institucional-23252478> (sección «Contáctenos»)
+- Formulario oficial de contacto: <https://www.bbc.com/mundo/send/u50853489>
 - Cuenta oficial en X / Twitter: @bbcmundo
 
 **Artículos:**
