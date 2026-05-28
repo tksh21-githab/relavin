@@ -43,6 +43,10 @@ Aliados legales: **Clínica Jurídica en Derechos Humanos y Discapacidad de la U
 - Pasó a dos comisiones el 29/04/2026: Salud, Seguridad Social, Derechos Humanos y Familia + Vivienda e Inclusión Social.
 - Incorpora la **vivienda con apoyo** además de la asistencia personal.
 
+### Texto del proyecto
+
+- Versión compartida por la autora (mayo de 2026): <https://www.dropbox.com/scl/fi/na3dr0uaqvxgqpih37rhl/Proyecto-Ley-Vida-Independiente-Silvia-De-Piero-San-Luis.docx?rlkey=9ms5d0xjxzy7ro3rbc8ofk0ou&dl=0>
+
 ---
 
 ## Contexto nacional (Argentina)
