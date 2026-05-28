@@ -12,7 +12,7 @@ _Última actualización: 2026-05-27_
 
 ### Texto oficial
 
-- SAIJ — Ley N° 6.778: <https://www.saij.gob.ar/6778-local-ciudad-autonoma-buenos-aires-asistentes-personales-para-vida-independiente-apvi-lpx0006778-2024-12-12/123456789-0abc-defg-877-6000xvorpyel>
+- Boletín Oficial de la Ciudad de Buenos Aires — Ley N° 6.778: <https://boletinoficial.buenosaires.gob.ar/normativaba/norma/774226>
 
 ---
 
