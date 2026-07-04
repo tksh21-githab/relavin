@@ -3,7 +3,7 @@
 **Programa de capacitación sobre vida independiente** (Japón + Costa Rica)
 Traducción al español del documento original en japonés (`20260703093320.pdf`, 研修日程表, 3 páginas).
 
-> ⚠️ **Versión preliminar (propuesta de inicios de 2026).** El programa oficial aún no ha sido publicado; las fechas y los contenidos pueden cambiar. Este cronograma se comparte de manera informativa para quienes estén considerando postular.
+> ✅ **La convocatoria oficial ya está abierta** (julio de 2026) y confirma estas mismas fechas. Requisitos, países convocados y proceso de postulación: **[Convocatoria 2026](Convocatoria-JICA-2026.md)**. El detalle de sesiones de este cronograma sigue sujeto a ajustes menores.
 
 - **Fase Japón**: Asociación Mainstream (MSA), Nishinomiya — 5 de octubre al 29 de octubre
 - **Fase Costa Rica**: Morpho, Pérez Zeledón / San José — 31 de octubre al 11 de noviembre
