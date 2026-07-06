@@ -35,12 +35,15 @@ En los ~50 artículos de la ley y en el Plan Nacional 2025–2026:
 
 | Concepto | Menciones en la ley | Menciones en el Plan |
 |---|---|---|
-| **Asistencia personal** | **0** | 1 (como ítem de la atención domiciliaria, junto a entrega de alimentos y teleasistencia) |
+| **Asistencia personal** | **0** | 1 — en la taxonomía de la *atención domiciliaria*: "servicios de asistencia personal para quien requiere cuidados y relevo de la persona cuidadora", junto a entrega de alimentos y teleasistencia. Es la AP como tarea del cuidado a domicilio, no como derecho controlado por la persona |
+| "Autonomía personal" | 0 | 1 — en la acción 24 (ayudas técnicas para 10–17 años, "para mejorar su funcionalidad y autonomía personal") — fórmula que se parece pero no es asistencia personal |
 | **Desinstitucionalización** | **0** | 0 |
 | **Capacidad jurídica** | **0** | 0 |
 | **Voluntad y preferencias** | **0** | 0 |
 
 La tríada CDPD que la Herramienta OHCHR marcó como su valor agregado (apoyo humano individualizado, capacidad jurídica, desinstitucionalización) **no entró en la ley que lleva "Apoyos" en el nombre**. Los "apoyos" chilenos son *implementos e intermediación* (ayudas técnicas, accesibilidad, gestión) — no el apoyo humano controlado por la persona. Y el Código Civil chileno **aún mantiene la interdicción** (la reforma de capacidad jurídica sigue pendiente en el Congreso), de modo que el indicador 3.3.1 queda bajo, en el polo opuesto del Perú.
+
+**Más aún: el Plan Nacional 2025–2026 expande la vía residencial.** Entre sus 34 acciones del objetivo 1 figuran el aumento de plazas del programa *Modelos Residenciales para Adultos con Discapacidad* de SENADIS (70 plazas, acción 23), la implementación de una **nueva residencia** para personas con discapacidad en San Carlos, Ñuble (acción 25), un nuevo ELEAM y el reacondicionamiento de otros tres para personas mayores (acciones 27–28) y nuevos condominios de vivienda tutelada (acción 29). Es decir: mientras el estándar del Comité CDPD (Directrices de 2022) exige transitar fuera de los modelos residenciales, la planificación operativa chilena **invierte en ampliarlos**. Hay contrapesos puntuales — FONAPI con proyectos de autonomía para díadas (acción 22), el diseño de un programa de promoción de la autonomía para mayores de 26 años (acción 26) — pero el saldo del Plan en el indicador 3.3.2 es negativo, no solo ausente.
 
 ## 4. Tabla panorámica: los 13 indicadores
 
