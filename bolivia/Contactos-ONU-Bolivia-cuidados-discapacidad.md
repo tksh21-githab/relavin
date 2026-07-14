@@ -9,8 +9,8 @@ Directorio de referencia para la incidencia en torno a la Ley 493/2025 de Sucre 
 
 - **Cómo funciona en Bolivia:** **no hay oficina propia**; Bolivia depende de la **Oficina de la OIT para los Países Andinos, con sede en Lima** (que cubre Bolivia, Colombia, Ecuador, Perú y Venezuela).
 - **Por qué importa para nosotras:** la OIT es la casa de la agenda de la *economía del cuidado* y de la trayectoria de asistencia personal Costa Rica → República Dominicana → Perú — el respaldo técnico natural para un piloto de asistencia personal en Sucre. Que Bolivia y Perú compartan oficina (Lima) facilita una articulación sur-sur con el caso peruano.
+- **Jefe de la Oficina de la OIT en Bolivia: Hernán Coronado** (confirmado por la oficina de Lima, jul-2026). Trayectoria: especialista regional de la OIT en pueblos indígenas y Convenio 169, con misiones de implementación en varios países de la región — un perfil muy afín a los procesos participativos (Cumbres/Pre-cumbres) y al marco constitucional boliviano.
 - **Enlace web:** [OIT Países Andinos (Lima)](https://www.ilo.org/lima/lang--es/index.htm) · [Página de Bolivia](https://www.ilo.org/regions-and-countries/latin-america-and-caribbean/bolivia)
-- **Nota:** identificar quién es el/la especialista que sigue Bolivia dentro de la oficina de Lima (RELAVIN gestiona este contacto).
 
 ## ONU Mujeres
 
