@@ -24,12 +24,11 @@ Consolidar en la República Dominicana un modelo de **asistencia personal dirigi
 
 ## 3. Objetivos específicos
 
-1. **Completar el diseño formativo** (revisión de los 4 módulos INFOTEP) incorporando la conducción por la persona y la filosofía de vida independiente.
-2. **Constituir un Centro de Vida Independiente (CVI) piloto** liderado por mujeres con discapacidad (CIMUDIS) como entidad **proveedora/despachadora** de asistentes personales.
+1. **Constituir un Centro de Vida Independiente (CVI) piloto** liderado por mujeres con discapacidad (CIMUDIS) como entidad **proveedora/despachadora** de asistentes personales.
+2. **Completar el diseño formativo** (revisión de los 4 módulos INFOTEP) incorporando la conducción por la persona y la filosofía de vida independiente.
 3. **Lograr que la prestación piloto 2026+ de AP incluya la dirección del servicio por la persona**, articulando CONADIS, FONADIS, Supérate y SIUBEN.
 4. **Formar asistentes personales con personas con discapacidad como docentes** (el modelo que ya usa el programa de cuidadoras).
-5. **Tender el puente sur-sur con Perú** (DS 001-2026-MIMP) y preparar la réplica regional (Panamá como siguiente).
-6. **Evaluar con la Herramienta OHCHR** y documentar la experiencia para CEPAL 2028 y el reporte ODS.
+5. **Evaluar con la Herramienta OHCHR** y documentar la experiencia para CEPAL 2028 y el reporte ODS.
 
 ## 4. Alineación estratégica
 
