@@ -2,7 +2,7 @@
 
 **Curso:** Participación social de las personas con discapacidad mediante un enfoque inclusivo de base comunitaria (A)
 *(Social Participation of Persons with Disabilities through a Community-Based Inclusive Approach — A)*
-**Sede:** JICA Okinawa · **Año:** 2026 · **Participantes:** 7, de 7 países de América Latina y el Caribe
+**Sede:** JICA Okinawa · **Periodo:** 19 de agosto – 26 de septiembre de 2026 · **Participantes:** 7, de 7 países de América Latina y el Caribe
 
 ---
 
