@@ -16,6 +16,10 @@
 
    **Las 29 personas certificadas siguen ahí, sin haber podido ejercer esa formación.**
 2. **La presidenta de CIMUDIS fue la primera persona de la República Dominicana en cursar la capacitación japonesa de vida independiente**, y regresó al país.
+
+   > Esa capacitación —la que impulsan la **Asociación Mainstream** (centro de vida independiente del Japón) y la **JICA**— está reconocida como **buena práctica por la Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos**, en su informe *Buenas prácticas de los sistemas de apoyo para la inclusión de las personas con discapacidad en la comunidad* (**A/HRC/55/34**, párr. 55): los centros de vida independiente dirigidos por las personas formadas «crean activamente conciencia […] al tiempo que ofrecen capacitación en asistencia personal». ([texto en español](https://docs.un.org/es/A/HRC/55/34) · [ficha del ACNUDH](https://www.ohchr.org/en/documents/thematic-reports/ahrc5534-good-practices-support-systems-enabling-community-inclusion))
+   >
+   > La ruta que propone este proyecto —formarse en un centro de vida independiente y volver a poner en marcha el servicio en el propio país— es exactamente la que el ACNUDH señala. **Costa Rica es el eslabón latinoamericano de esa misma cadena.**
 3. A raíz de eso, **la OIT volvió a presentarnos a INFOTEP** y se reabrió la conversación para reactivar aquel currículo.
 4. **Por iniciativa de CIMUDIS, el trabajo se amplió a la red de personas egresadas de las capacitaciones de JICA dentro de las instituciones públicas.** De ahí nace esta propuesta.
 
