@@ -10,9 +10,9 @@
 ## 1. Cómo llegamos hasta aquí
 
 1. **2023 — La formación de asistentes personales ya se introdujo en la República Dominicana** con apoyo de la OIT (currículo en INFOTEP). **Pero se hizo sin las personas con discapacidad, y quedó detenida.**
-2. **Cristina (CIMUDIS) fue la primera persona de la República Dominicana en cursar la capacitación japonesa de vida independiente**, y regresó al país.
+2. **La presidenta de CIMUDIS fue la primera persona de la República Dominicana en cursar la capacitación japonesa de vida independiente**, y regresó al país.
 3. A raíz de eso, **la OIT volvió a presentarnos a INFOTEP** y se reabrió la conversación para reactivar aquel currículo.
-4. **Por iniciativa de Cristina, el círculo se amplió a la red de personas egresadas de las capacitaciones de JICA dentro de las instituciones públicas.** De ahí nace esta propuesta.
+4. **Por iniciativa de CIMUDIS, el trabajo se amplió a la red de personas egresadas de las capacitaciones de JICA dentro de las instituciones públicas.** De ahí nace esta propuesta.
 
 **Lo que cambia respecto de 2023 no es el currículo: es quién lo conduce.**
 
@@ -34,8 +34,8 @@ El mismo Compromiso prevé, en su párrafo 71, **un programa de cooperación int
 
 **Hasta 2028 el proyecto se inscribe en la agenda de género.**
 
-- Contraparte política: **Ministerio de la Mujer** (reunión con la ministra Gloria Reyes y CIMUDIS, 1-ago-2026).
-- Sujeto: **CIMUDIS** — Círculo de Mujeres con Discapacidad, presidido por Cristina.
+- Contraparte política: **Ministerio de la Mujer** (encuentro con CIMUDIS, 1 de agosto de 2026).
+- Sujeto: **CIMUDIS** — Círculo de Mujeres con Discapacidad.
 - **El centro se plantea como la versión para mujeres con discapacidad de los *Centros Libres* mexicanos**: espacio de encuentro, refugio cuando hace falta, y lugar de cuidado entre pares. **Es el horizonte a 2030**: el proyecto empieza en un espacio facilitado por el CONADIS y avanza hacia una sede propia (§9).
 - Con la **OIT** el planteamiento adicional es que **el centro sea también un lugar de trabajo para personas con discapacidad** — una línea que se viene trabajando conjuntamente y que conviene desarrollar más.
 
@@ -67,7 +67,7 @@ Las tres primeras **arrancan a la vez**, no en secuencia.
 | **2027 · 1.º trim.** | **Capacitación en Costa Rica** (ver §7) |
 | **2027 · 2.º trim.** | **Preparación** en el país **[x — definir contenido]** |
 | **2027 · 3.º y 4.º trim.** | **Formación AP · Coordinación AP · Despacho AP** — las tres en paralelo |
-| **2028 · 1.º trim.** | **Visita de evaluación de Wendy Barrantes** — un año después de la capacitación en Costa Rica |
+| **2028 · 1.º trim.** | **Visita de evaluación desde Costa Rica** — un año después de la capacitación |
 | **2028** | Análisis de datos y preparación de la Conferencia, **sin interrumpir el servicio** |
 | **2028 · (fecha por confirmar, previsiblemente 3.er trim.)** | **XVII Conferencia Regional sobre la Mujer** — presentación conjunta con la OIT |
 | **2028 →** | Evaluación de cierre y formulación del plan hacia 2030 |
@@ -75,7 +75,7 @@ Las tres primeras **arrancan a la vez**, no en secuencia.
 **Dos niveles de evaluación**
 
 - **Cada tres meses**, de forma automática desde el inicio: observación de punto fijo.
-- **A un año de la capacitación en Costa Rica: Wendy viaja a la República Dominicana.** No es una evaluación de escritorio — viene a ver si el ciclo está funcionando y, si hay problemas, se resuelven allí mismo, en persona. **Quien enseñó va a ver el resultado.**
+- **A un año de la capacitación: el equipo costarricense viaja a la República Dominicana.** No es una evaluación de escritorio — se viene a ver si el ciclo está funcionando y, si hay problemas, se resuelven allí mismo, en persona. **Quien enseñó va a ver el resultado.**
 
 *Sobre la Conferencia: la sede y la fecha aún no están definidas; la conversación con el gobierno acaba de comenzar. La de 2025 fue en agosto, y sobre ese supuesto se organiza el calendario. Como la evaluación queda cerrada en el primer trimestre, el proyecto puede responder cualquiera que sea la fecha final.*
 
@@ -94,7 +94,7 @@ Las tres primeras **arrancan a la vez**, no en secuencia.
 
 - **CIMUDIS** — sujeto del proyecto e interlocutor político ante el Ministerio de la Mujer.
 - **RELAVIN** — acompañamiento técnico regional.
-- **Takeshi Inoue — coordinación general.** Es el punto donde confluyen las cuatro líneas que este proyecto necesita a la vez: la República Dominicana, Costa Rica (Morpho), la OIT y JICA.
+- **RELAVIN — coordinación general del proyecto**, articulando las cuatro líneas que se necesitan a la vez: la República Dominicana, Costa Rica (Morpho), la OIT y JICA.
 
 **Contrapartes institucionales**
 
@@ -155,7 +155,7 @@ El criterio de diseño es uno: **que el dinero empiece a circular en el terreno 
 
 Es el camino que siguió Morpho: en 2013, antes de la Ley 9379, sostenía la vida independiente de 6 personas usuarias con unos 10 asistentes personales — 919 horas en agosto de ese año, con **22% aportado por el Estado y 78% por el proyecto**. Tras la entrada en vigor de la ley en 2019, **el Estado asumió prácticamente el 100% y la carga del proyecto bajó a cero.**
 
-**Para que el centro se sostenga**, hace falta además el planteamiento trabajado con la OIT: **el centro como lugar de trabajo para personas con discapacidad**. JICA no puede cubrir esa parte.
+**Para que el centro se sostenga**, hace falta además el planteamiento trabajado con la OIT: **el centro como lugar de trabajo para personas con discapacidad**.
 
 Partidas: pago de asistencia personal (mayoritaria) · capacitación en Costa Rica · sistema de coordinación · operación del centro · evaluación y viajes **[x]**
 
@@ -167,25 +167,27 @@ Partidas: pago de asistencia personal (mayoritaria) · capacitación en Costa Ri
 
 Explicar el proyecto como sistema es difícil. **Primero queremos tener claro el conjunto y conversarlo con las contrapartes dominicanas**; la argumentación ante la banca de desarrollo viene después.
 
-**Punto de partida: CONADIS.**
+**Punto de partida y titularidad de la propuesta**
 
-La propuesta se plantea desde el CONADIS, y a partir de ahí se conversa **cuánto de esto puede cubrirse con recursos nacionales** — FONADIS (fondo designado a vida independiente), Supérate / Comunidades de Cuidado, Ministerio de la Mujer. El presupuesto se presenta completo, y la proporción entre aporte nacional y financiamiento externo se define en esa conversación, no antes.
+El recorrido es: **CIMUDIS → CONADIS**, y **la propuesta ante la banca de desarrollo la presenta oficialmente el CONADIS.** El proyecto nace del movimiento y se presenta desde la institución rectora del Estado.
+
+A partir de ahí se conversa **cuánto de esto puede cubrirse con recursos nacionales** — FONADIS (fondo designado a vida independiente), Supérate / Comunidades de Cuidado, Ministerio de la Mujer. **El presupuesto se presenta completo**, y la proporción entre aporte nacional y financiamiento externo se define en esa conversación, no antes.
 
 **JICA (proyecto previsto desde 2027)**
 
-No se trata de que un actor apoye al otro: **son de naturaleza distinta y por eso se potencian.** Conocemos bien lo que JICA no puede hacer, y la intención es complementarlo. Se irá conversando según avance.
+No se trata de que un actor apoye al otro: **son iniciativas de naturaleza distinta y por eso se potencian mutuamente.** La intención es que se complementen, y se irá conversando según avance.
 
 **CAF**
 
 La CAF financia principalmente a **gobiernos** de sus países miembro, mediante créditos y cooperaciones técnicas; con organizaciones de la sociedad civil realiza colaboraciones puntuales, orientadas sobre todo a **estudios, productos de conocimiento, jornadas y consultas**.
 
-Este proyecto encaja bien con eso: tiene contraparte pública (CONADIS, Ministerio de la Mujer) y produce exactamente ese tipo de resultado.
+Este proyecto encaja con ese marco: **la propuesta la presenta el CONADIS**, y lo que produce es exactamente ese tipo de resultado.
 
 - el **programa de formación de asistentes personales** sistematizado a partir de Morpho (§8) — un producto de conocimiento transferible a toda la región;
 - la **capacitación en Costa Rica** (§7) — jornada y consulta entre instituciones de dos países;
 - la **evaluación con datos** de 2028 (§5) — estudio.
 
-Sobre esa base se retoma la conversación, y sin prisa. Stefan Trömel e Iñaki Regueiro no son destinatarios externos — están dentro del círculo.
+Sobre esa base se retomará la conversación con la CAF.
 
 **Camino hacia 2028**
 
@@ -209,10 +211,10 @@ Para la presentación conjunta en la Conferencia: **primero se trabaja con la OI
 
 ## 13. Próximos pasos
 
-1. Revisión de este borrador **con Cristina (CIMUDIS)**.
+1. Revisión de este borrador **con CIMUDIS**.
 2. Consulta con las personas participantes de la **capacitación de JICA en Okinawa (septiembre de 2026)** — entre ellas la representante dominicana.
-3. Con eso, conversación con las contrapartes dominicanas.
-4. Después, la argumentación ante la banca de desarrollo.
+3. **Presentación al CONADIS por medio de CIMUDIS**, y conversación sobre el alcance del aporte nacional.
+4. **Presentación ante la banca de desarrollo, formalmente por el CONADIS.**
 
 ---
 
