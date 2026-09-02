@@ -9,12 +9,17 @@
 
 ## 1. Cómo llegamos hasta aquí
 
-1. **2023 — La formación de asistentes personales ya se introdujo en la República Dominicana** con apoyo de la OIT (currículo en INFOTEP). **Pero se hizo sin las personas con discapacidad, y quedó detenida.**
+1. **2023-2024 — La formación de asistentes personales ya se introdujo en la República Dominicana, con apoyo de la OIT.**
+   - **Octubre de 2023:** INFOTEP, la OIT y el MEPyD presentan el programa **«Asistencia Personal a Personas con Discapacidad con Demanda de Apoyo»**, con **cuatro Manuales Guía**, dentro del proyecto *Comunidades de Cuidado* (Fondo ODS). ([OIT](https://www.ilo.org/es/resource/news/infotep-oit-y-mepyd-anuncian-habilitacion-para-asistencia-personas-con) · [INFOTEP](https://www.infotep.gob.do/index.php/noticias/item/1965-infotep-oit-y-mepyd-anuncian-habilitacion-para-asistencia-a-personas-con-discapacidad) · [Presidencia](https://presidencia.gob.do/noticias/presentan-programa-de-capacitacion-para-la-asistencia-personas-con-discapacidad))
+   - **26 de febrero de 2024:** INFOTEP y la OIT **certifican a 29 facilitadoras y facilitadores técnicos** para impartir ese programa — 30 horas, con el enfoque de derechos humanos como eje transversal, a cargo de una experta internacional del movimiento de vida independiente de Costa Rica, consultora de la OIT. ([Supérate](https://www.superate.gob.do/noticias/certifican-facilitadores-en-asistencia-a-personas-con-discapacidad/))
+   - **Y ahí se detuvo.** La formación masiva y los servicios avanzaron para el cuidado de personas mayores, pero **la formación de asistentes personales y la prestación del servicio de AP a personas con discapacidad no arrancaron.**
+
+   **Las 29 personas certificadas siguen ahí, sin haber podido ejercer esa formación.**
 2. **La presidenta de CIMUDIS fue la primera persona de la República Dominicana en cursar la capacitación japonesa de vida independiente**, y regresó al país.
 3. A raíz de eso, **la OIT volvió a presentarnos a INFOTEP** y se reabrió la conversación para reactivar aquel currículo.
 4. **Por iniciativa de CIMUDIS, el trabajo se amplió a la red de personas egresadas de las capacitaciones de JICA dentro de las instituciones públicas.** De ahí nace esta propuesta.
 
-**Lo que cambia respecto de 2023 no es el currículo: es quién lo conduce.**
+**Esta propuesta no inicia algo nuevo: retoma lo que la OIT dejó a mitad de camino.** El currículo, los manuales y las personas formadoras ya existen — es un activo que en la región sólo tienen la República Dominicana y Costa Rica. **Lo que cambia respecto de 2023 no es el currículo: es quién lo conduce.**
 
 ---
 
@@ -65,7 +70,7 @@ Las tres primeras **arrancan a la vez**, no en secuencia.
 |---|---|
 | **2026** | Preparación. Diálogo con INFOTEP, OIT, Ministerio de la Mujer, CONADIS y demás contrapartes. |
 | **2027 · 1.º trim.** | **Capacitación en Costa Rica** (ver §7) |
-| **2027 · 2.º trim.** | **Preparación** en el país **[x — definir contenido]** |
+| **2027 · 2.º trim.** | **Preparación** en el país — incluye el **encuentro con las 29 personas facilitadoras certificadas en 2024** (§7). Resto del contenido **[x]** |
 | **2027 · 3.º y 4.º trim.** | **Formación AP · Coordinación AP · Despacho AP** — las tres en paralelo |
 | **2028 · 1.º trim.** | **Visita de evaluación desde Costa Rica** — un año después de la capacitación |
 | **2028** | Análisis de datos y preparación de la Conferencia, **sin interrumpir el servicio** |
@@ -114,6 +119,10 @@ Ministerio de la Mujer · CONADIS · FONADIS · Supérate · INFOTEP · asociaci
 - Eje central: **aprender cómo trabaja un centro de vida independiente** — la operación real, no la teoría
 - **Tres días de taller de consejería de pares** para las personas con discapacidad
 - **Visitas al CONAPDIS**: sede central y **oficina regional de Brunca**
+
+**A la vuelta: encuentro con las personas facilitadoras certificadas en 2024**
+
+Una de las primeras actividades después de la capacitación es **convocar a las 29 personas certificadas en febrero de 2024** y sentarse con ellas: qué se preparó entonces, por qué quedó detenido, y **en qué puede cada quien colaborar ahora**. Son quienes ya recibieron esta formación en el país; el piloto no puede armarse sin ellas.
 
 **Por qué llevar a las instituciones públicas junto con el movimiento:** explicar un sistema con palabras es difícil. **Se ve funcionando en Costa Rica, y a partir de ahí la conversación pasa a ser «¿y cómo hacemos esto nosotros?».** Es una discusión distinta a la de una mesa técnica.
 
