@@ -192,7 +192,17 @@ Explicar el proyecto como sistema es difícil. **Primero queremos tener claro el
 
 El recorrido es: **CIMUDIS → CONADIS**, y **la propuesta ante la banca de desarrollo la presenta oficialmente el CONADIS.** El proyecto nace del movimiento y se presenta desde la institución rectora del Estado.
 
-A partir de ahí se conversa **cuánto de esto puede cubrirse con recursos nacionales** — FONADIS (fondo designado a vida independiente), Supérate / Comunidades de Cuidado, Ministerio de la Mujer. **El presupuesto se presenta completo**, y la proporción entre aporte nacional y financiamiento externo se define en esa conversación, no antes.
+A partir de ahí se conversa **cuánto de esto puede cubrirse con recursos ya existentes**. **El presupuesto se presenta completo**, y la proporción se define en esa conversación, no antes.
+
+**Dónde está hoy el dinero de los cuidados en la República Dominicana — y qué hay que verificar**
+
+- **Comunidades de Cuidado** —el piloto de la Política Nacional de Cuidados, en cuyo marco se presentó en 2023 el programa de asistencia personal— **se financia con el Fondo Conjunto para los ODS de las Naciones Unidas**, recibido por primera vez por el país en 2022. Lo lideran **ONU Mujeres, la OIT, el UNFPA y el PNUD**, articulando a once instituciones públicas, entre ellas el CONADIS. **Supérate** conduce la ejecución en el terreno desde 2021, pero **no es el origen de los fondos**.
+  → **La rama de discapacidad de ese piloto es precisamente la que quedó detenida.** La primera pregunta a resolver con las contrapartes es si **los recursos ya asignados a esa rama pueden activarse**, en lugar de buscar financiamiento nuevo para lo mismo.
+- **FONADIS** — Fondo Nacional para la Discapacidad, creado por los **artículos 136 a 139 de la Ley 5-13** y reglamentado por el Directorio Nacional del CONADIS. Conviene precisar su alcance: **el artículo 137 enumera seis objetivos —crédito productivo, becas, dispositivos de apoyo y ayudas humanitarias, equipos tecnológicos, promoción de derechos y fortalecimiento de las organizaciones— y no menciona la prestación de servicios de apoyo humano.** (La Ley 5-13 tampoco emplea la expresión «asistencia personal».)
+  → Habría que consultar con el CONADIS **si el FONADIS puede cubrir el pago de asistencia personal, o si haría falta una vía distinta.** En cambio, el **artículo 139.2** sí prevé expresamente que el fondo se nutra de **donaciones y aportes de la cooperación nacional e internacional**: por ahí el FONADIS puede funcionar como **receptor** de financiamiento externo.
+- **Ministerio de la Mujer** — impulsa la **Ley del Sistema Nacional de Cuidados**, con apoyo de ONU Mujeres. Es la contraparte política del proyecto (§3).
+
+> **Nota sobre ONU Mujeres:** es la entidad líder de *Comunidades de Cuidado* y acompaña al Ministerio de la Mujer en la ley del sistema de cuidados. **Está, por tanto, en los dos extremos de este proyecto**: el marco de género en el que se inscribe y el mecanismo que financia el piloto donde la asistencia personal quedó pendiente.
 
 **JICA (proyecto previsto desde 2027)**
 
@@ -228,6 +238,7 @@ Para la presentación conjunta en la Conferencia: **primero se trabaja con la OI
 | Sede del centro | ubicación |
 | Acompañamiento remoto | asesoría en línea a cargo de Morpho; **la frecuencia (trimestral de partida) se revisa una vez en marcha** |
 | Presupuesto total | |
+| **Origen del pago de AP** | si los recursos de la rama de discapacidad de *Comunidades de Cuidado* pueden activarse; si el FONADIS puede cubrir servicios de apoyo humano (art. 137 no lo contempla) |
 
 ---
 
