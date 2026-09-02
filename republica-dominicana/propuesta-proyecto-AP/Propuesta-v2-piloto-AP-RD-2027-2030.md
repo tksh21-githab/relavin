@@ -37,7 +37,7 @@ El mismo Compromiso prevé, en su párrafo 71, **un programa de cooperación int
 - Contraparte política: **Ministerio de la Mujer** (reunión con la ministra Gloria Reyes y CIMUDIS, 1-ago-2026).
 - Sujeto: **CIMUDIS** — Círculo de Mujeres con Discapacidad, presidido por Cristina.
 - **El centro se plantea como la versión para mujeres con discapacidad de los *Centros Libres* mexicanos**: espacio de encuentro, refugio cuando hace falta, y lugar de cuidado entre pares. **Es el horizonte a 2030**: el proyecto empieza en un espacio facilitado por el CONADIS y avanza hacia una sede propia (§9).
-- Con la **OIT** el planteamiento adicional es que **el centro sea también un lugar de trabajo para personas con discapacidad**. Paz Arancibia comentó que esa idea hay que desarrollarla más — la respuesta es hacerlo conjuntamente.
+- Con la **OIT** el planteamiento adicional es que **el centro sea también un lugar de trabajo para personas con discapacidad** — una línea que se viene trabajando conjuntamente y que conviene desarrollar más.
 
 **Nota sobre el alcance:** el marco es de género, pero **las personas usuarias del piloto no lo son sólo**. Ver §6.
 
