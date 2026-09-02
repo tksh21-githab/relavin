@@ -22,7 +22,11 @@
 
 **Objetivo superior (2030)** — Que la asistencia personal dirigida por la persona esté **establecida como sistema en la República Dominicana**, con **un centro con sede propia** en funcionamiento.
 
-**Objetivo del proyecto (2028)** — **Presentar el caso dominicano junto con la OIT** ante la XVII Conferencia Regional sobre la Mujer, como una de las propuestas concretas dentro de la **década de instalación de los sistemas de cuidados** acordada en la Conferencia de México (2025).
+**Objetivo del proyecto (2028)** — **Presentar el caso dominicano junto con la OIT** ante la XVII Conferencia Regional sobre la Mujer, como una propuesta concreta dentro de la **década de acción 2025-2035**, establecida en el Compromiso de Tlatelolco (Conferencia de México, 2025):
+
+> **7.** *Establecer una década de acción 2025-2035 en América Latina y el Caribe para acelerar el logro de la igualdad sustantiva de género y la sociedad del cuidado mediante transformaciones en los ámbitos político, económico, social, cultural y ambiental.*
+
+El mismo Compromiso prevé, en su párrafo 71, **un programa de cooperación internacional multiactor** para apoyar esa década — que es exactamente el marco en el que este proyecto se inscribe — y, en su párrafo 72, que los Estados **informen voluntariamente sobre los avances en las reuniones de la Mesa Directiva de aquí a 2035**.
 
 ---
 
