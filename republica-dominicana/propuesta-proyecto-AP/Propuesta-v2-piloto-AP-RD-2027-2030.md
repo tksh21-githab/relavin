@@ -159,28 +159,34 @@ Para esa etapa inicial se adopta **el sistema que Morpho opera por internet**.
 
 ## 10. Presupuesto — el criterio
 
-**La mayor parte del presupuesto es el pago de la asistencia personal. [x — tarifa y monto por acordar]**
+**El pago de la asistencia personal se cubre con recursos nacionales. Lo que se busca afuera es otra cosa.**
 
-El criterio de diseño es uno: **que el dinero empiece a circular en el terreno lo antes posible.** No esperar a que el sistema nacional esté listo — pagar y echar a andar, y que la experiencia sirva después para que el Estado lo asuma.
+Esa es la diferencia con un proyecto que hubiera que financiar entero desde fuera, y descansa en un hecho: **en la República Dominicana ya se está pagando por el cuidado de personas con discapacidad.** El Estado tiene la partida y el mecanismo para transferir; lo que está por definirse es **a quién se le paga y quién decide**.
 
-Es el camino que siguió Morpho: en 2013, antes de la Ley 9379, sostenía la vida independiente de 6 personas usuarias con unos 10 asistentes personales — 919 horas en agosto de ese año, con **22% aportado por el Estado y 78% por el proyecto**. Tras la entrada en vigor de la ley en 2019, **el Estado asumió prácticamente el 100% y la carga del proyecto bajó a cero.**
+> **Lo que proponemos no es crear un pago nuevo, sino ensayar otra forma de aplicar el que ya existe:** que en un grupo acotado de personas usuarias, el apoyo lo preste alguien **elegido y dirigido por la propia persona con discapacidad**, con las condiciones laborales que corresponden.
+>
+> No es una petición de más presupuesto. Es una pregunta de diseño.
 
-**Para que el centro se sostenga**, hace falta además el planteamiento trabajado con la OIT: **el centro como lugar de trabajo para personas con discapacidad**.
+**Con qué recursos nacionales, exactamente: [x — a definir con las contrapartes].** Las vías a explorar son las transferencias que ya operan en el ámbito del cuidado y la discapacidad, y el FONADIS (§11).
 
-**Partidas**
+**Lo que sí requiere financiamiento externo**
 
 | | |
 |---|---|
-| **Pago de asistencia personal** | la partida mayoritaria **[x]** |
-| **Capacitación en Costa Rica** | **honorarios de Morpho por la capacitación [x]** · viajes y estadía de unas 10 personas · consejería de pares · visitas al CONAPDIS |
+| **Capacitación en Costa Rica** | honorarios de Morpho · viajes y estadía de unas 10 personas · consejería de pares · visitas al CONAPDIS **[x]** |
 | **Sistema de coordinación** | costo de uso **[x]** |
 | **Asesoría en línea de Morpho** | seguimiento periódico **[x]** |
 | **Visita de evaluación desde Costa Rica (2028)** | viajes y estadía **[x]** |
+| **Evaluación, datos y presentación en 2028** | **[x]** |
 | **Operación** | espacio (facilitado inicialmente por el CONADIS), coordinación, materiales **[x]** |
 
 **Nota:** las partidas que corresponden a Morpho —capacitación, sistema, asesoría— no son un gasto administrativo: **son la contraprestación por el conocimiento acumulado** y, a la vez, ingreso que sostiene a quien enseña (§9). Un esquema de cooperación sur-sur en el que la parte que transfiere la experiencia trabaja sin remuneración no se sostiene en el tiempo.
 
----
+**El antecedente costarricense**
+
+Morpho empezó al revés, y aun así funcionó: en 2013, antes de la Ley 9379, sostenía la vida independiente de 6 personas usuarias con unos 10 asistentes personales —919 horas en agosto de ese año— con **22% aportado por el Estado y 78% por el proyecto**. Tras la entrada en vigor de la ley en 2019, **el Estado asumió prácticamente el 100%.**
+
+**La República Dominicana parte de una posición mejor que aquella**: el pago estatal no hay que construirlo desde cero.
 
 ## 11. Financiamiento
 
@@ -192,7 +198,7 @@ Explicar el proyecto como sistema es difícil. **Primero queremos tener claro el
 
 El recorrido es: **CIMUDIS → CONADIS**, y **la propuesta ante la banca de desarrollo la presenta oficialmente el CONADIS.** El proyecto nace del movimiento y se presenta desde la institución rectora del Estado.
 
-A partir de ahí se conversa **cuánto de esto puede cubrirse con recursos ya existentes**. **El presupuesto se presenta completo**, y la proporción se define en esa conversación, no antes.
+A partir de ahí se conversa **qué vía nacional cubre el pago de la asistencia personal** (§10) y cómo se financia el resto. **El presupuesto se presenta completo**, y la distribución se define en esa conversación, no antes.
 
 **Dónde está hoy el dinero de los cuidados en la República Dominicana — y qué hay que verificar**
 
