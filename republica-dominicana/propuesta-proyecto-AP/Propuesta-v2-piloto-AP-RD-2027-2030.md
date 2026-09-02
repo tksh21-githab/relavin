@@ -110,7 +110,7 @@ Ministerio de la Mujer · CONADIS · FONADIS · Supérate · INFOTEP · asociaci
 
 ## 7. La capacitación en Costa Rica (2027, 1.er trimestre)
 
-**Unas 10 personas · dos semanas aproximadamente**
+**Unas 10 personas · dos semanas aproximadamente · capacitación a cargo de Morpho (con honorarios, §10)**
 
 **Composición**
 - Núcleo: **personas con discapacidad de CIMUDIS**
@@ -167,7 +167,18 @@ Es el camino que siguió Morpho: en 2013, antes de la Ley 9379, sostenía la vid
 
 **Para que el centro se sostenga**, hace falta además el planteamiento trabajado con la OIT: **el centro como lugar de trabajo para personas con discapacidad**.
 
-Partidas: pago de asistencia personal (mayoritaria) · capacitación en Costa Rica · sistema de coordinación · operación del centro · evaluación y viajes **[x]**
+**Partidas**
+
+| | |
+|---|---|
+| **Pago de asistencia personal** | la partida mayoritaria **[x]** |
+| **Capacitación en Costa Rica** | **honorarios de Morpho por la capacitación [x]** · viajes y estadía de unas 10 personas · consejería de pares · visitas al CONAPDIS |
+| **Sistema de coordinación** | costo de uso **[x]** |
+| **Asesoría en línea de Morpho** | seguimiento periódico **[x]** |
+| **Visita de evaluación desde Costa Rica (2028)** | viajes y estadía **[x]** |
+| **Operación** | espacio (facilitado inicialmente por el CONADIS), coordinación, materiales **[x]** |
+
+**Nota:** las partidas que corresponden a Morpho —capacitación, sistema, asesoría— no son un gasto administrativo: **son la contraprestación por el conocimiento acumulado** y, a la vez, ingreso que sostiene a quien enseña (§9). Un esquema de cooperación sur-sur en el que la parte que transfiere la experiencia trabaja sin remuneración no se sostiene en el tiempo.
 
 ---
 
@@ -212,6 +223,7 @@ Para la presentación conjunta en la Conferencia: **primero se trabaja con la OI
 | Personas usuarias | número final y criterio de selección territorial |
 | Contenido del 2.º trimestre de 2027 | qué se prepara entre la vuelta de Costa Rica y el arranque |
 | Tarifa de asistencia personal | monto y quién paga qué proporción al inicio |
+| Honorarios de Morpho | capacitación en Costa Rica y asesoría en línea |
 | Sistema de coordinación | costo de uso |
 | Sede del centro | ubicación |
 | Acompañamiento remoto | asesoría en línea a cargo de Morpho; **la frecuencia (trimestral de partida) se revisa una vez en marcha** |
