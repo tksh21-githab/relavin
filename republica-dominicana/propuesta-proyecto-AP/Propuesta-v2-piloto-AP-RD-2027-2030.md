@@ -79,7 +79,7 @@ Las tres primeras **arrancan a la vez**, no en secuencia.
 
 **Dos niveles de evaluación**
 
-- **Cada tres meses**, de forma automática desde el inicio: observación de punto fijo.
+- **Cada tres meses**, de forma automática desde el inicio: observación de punto fijo. **Cada una de esas instancias incluye una sesión de asesoría en línea con Morpho** — no sólo se registra cómo va el ciclo, sino que se resuelven allí mismo las dudas de la operación con quienes ya lo tienen andando.
 - **A un año de la capacitación: el equipo costarricense viaja a la República Dominicana.** No es una evaluación de escritorio — se viene a ver si el ciclo está funcionando y, si hay problemas, se resuelven allí mismo, en persona. **Quien enseñó va a ver el resultado.**
 
 *Sobre la Conferencia: la sede y la fecha aún no están definidas; la conversación con el gobierno acaba de comenzar. La de 2025 fue en agosto, y sobre ese supuesto se organiza el calendario. Como la evaluación queda cerrada en el primer trimestre, el proyecto puede responder cualquiera que sea la fecha final.*
