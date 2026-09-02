@@ -158,17 +158,31 @@ Partidas: pago de asistencia personal (mayoritaria) · capacitación en Costa Ri
 
 Explicar el proyecto como sistema es difícil. **Primero queremos tener claro el conjunto y conversarlo con las contrapartes dominicanas**; la argumentación ante la banca de desarrollo viene después.
 
+**Punto de partida: CONADIS.**
+
+La propuesta se plantea desde el CONADIS, y a partir de ahí se conversa **cuánto de esto puede cubrirse con recursos nacionales** — FONADIS (fondo designado a vida independiente), Supérate / Comunidades de Cuidado, Ministerio de la Mujer. El presupuesto se presenta completo, y la proporción entre aporte nacional y financiamiento externo se define en esa conversación, no antes.
+
 **JICA (proyecto previsto desde 2027)**
 
 No se trata de que un actor apoye al otro: **son de naturaleza distinta y por eso se potencian.** Conocemos bien lo que JICA no puede hacer, y la intención es complementarlo. Se irá conversando según avance.
 
+**CAF**
+
+En octubre de 2025 se presentó a la CAF una propuesta regional que no prosperó. Las razones fueron explícitas y siguen siendo la guía: el proyecto era **demasiado abarcativo**, el monto **considerable** (USD 938.420), y **mezclaba actividades de naturaleza dispar en varios países**. Además, la CAF financia principalmente a **gobiernos** de sus países miembro mediante créditos y cooperaciones técnicas; con sociedad civil hace colaboraciones puntuales, orientadas a **estudios, productos de conocimiento, jornadas y consultas**.
+
+Esta versión responde a lo primero: **un país, un ciclo, un periodo acotado.** Y para lo segundo, el proyecto tiene contraparte pública (CONADIS, Ministerio de la Mujer) y produce exactamente el tipo de resultado que la CAF sí puede acompañar:
+
+- el **programa de formación de asistentes personales** sistematizado a partir de Morpho (§8) — un producto de conocimiento transferible a toda la región;
+- la **capacitación en Costa Rica** (§7) — jornada y consulta entre instituciones de dos países;
+- la **evaluación con datos** de 2028 (§5) — estudio.
+
+La conversación con la CAF se retoma sobre esa base, y sin prisa. Stefan Trömel e Iñaki Regueiro no son destinatarios externos — están dentro del círculo.
+
 **Camino hacia 2028**
 
-Para la presentación conjunta en la Conferencia: **primero se trabaja con la OIT, y en paralelo se escribe a la CAF.** Stefan Trömel e Iñaki Regueiro no son destinatarios externos — están dentro del círculo.
+Para la presentación conjunta en la Conferencia: **primero se trabaja con la OIT, y en paralelo se escribe a la CAF.**
 
-**Fuentes por explorar:** OIT · CAF · BID · Banco Mundial · Ministerio de la Mujer · FONADIS · Supérate
-
----
+**Fuentes por explorar:** CONADIS / FONADIS / Supérate / Ministerio de la Mujer (nacional) · OIT · JICA · CAF · BID · Banco Mundial
 
 ## 12. Puntos por definir
 
