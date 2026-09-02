@@ -20,7 +20,7 @@
 
 ## 2. Objetivos
 
-**Objetivo superior (2030)** — Que la asistencia personal dirigida por la persona esté **establecida como sistema en la República Dominicana**.
+**Objetivo superior (2030)** — Que la asistencia personal dirigida por la persona esté **establecida como sistema en la República Dominicana**, con **un centro con sede propia** en funcionamiento.
 
 **Objetivo del proyecto (2028)** — **Presentar el caso dominicano junto con la OIT** ante la XVII Conferencia Regional sobre la Mujer, como una de las propuestas concretas dentro de la **década de instalación de los sistemas de cuidados** acordada en la Conferencia de México (2025).
 
@@ -32,7 +32,7 @@
 
 - Contraparte política: **Ministerio de la Mujer** (reunión con la ministra Gloria Reyes y CIMUDIS, 1-ago-2026).
 - Sujeto: **CIMUDIS** — Círculo de Mujeres con Discapacidad, presidido por Cristina.
-- **El centro se plantea como la versión para mujeres con discapacidad de los *Centros Libres* mexicanos**: espacio de encuentro, refugio cuando hace falta, y lugar de cuidado entre pares.
+- **El centro se plantea como la versión para mujeres con discapacidad de los *Centros Libres* mexicanos**: espacio de encuentro, refugio cuando hace falta, y lugar de cuidado entre pares. **Es el horizonte a 2030**: el proyecto empieza en un espacio facilitado por el CONADIS y avanza hacia una sede propia (§9).
 - Con la **OIT** el planteamiento adicional es que **el centro sea también un lugar de trabajo para personas con discapacidad**. Paz Arancibia comentó que esa idea hay que desarrollarla más — la respuesta es hacerlo conjuntamente.
 
 **Nota sobre el alcance:** el marco es de género, pero **las personas usuarias del piloto no lo son sólo**. Ver §6.
@@ -125,18 +125,23 @@ Este proyecto es a la vez el primer caso de aplicación de ese programa y la oca
 
 ---
 
-## 9. El sistema de coordinación de Morpho
+## 9. Dónde empieza — y el sistema de coordinación
 
-Se adopta **el sistema de coordinación que Morpho opera por internet**.
+**El proyecto no arranca abriendo una sede.** Lo que se busca primero es **poner en marcha la formación de asistentes personales junto con la organización de personas con discapacidad, el CONADIS y el INFOTEP, y ver cómo funciona.**
 
-- **Ya está probado en Costa Rica**, en centros de vida independiente de provincia **que no tienen oficina**: permite coordinar **a distancia** entre asistentes personales y personas usuarias dispersos en el territorio.
-- Por eso el piloto **puede llegar a las provincias sin abrir sedes**: el centro es uno, en la capital; la coordinación llega por el sistema.
+- **Al inicio, el CONADIS facilita el espacio.** Se empieza ahí.
+- **Abrir la sede propia del centro es el objetivo a 2030**, no el punto de partida. Llega cuando el ciclo esté funcionando y haya con qué sostenerla.
+
+**El sistema de coordinación**
+
+Para esa etapa inicial se adopta **el sistema que Morpho opera por internet**.
+
+- Ya está probado en Costa Rica, **en centros de vida independiente de provincia que aún no tienen oficina**: permite coordinar **a distancia** entre asistentes personales y personas usuarias dispersos en el territorio.
+- Eso hace posible **llegar a las provincias desde el comienzo**, sin esperar a tener infraestructura.
 - Los registros de despacho quedan almacenados desde el primer día → **es la base de datos de la evaluación de 2028.**
 - **Y hay un retorno hacia Costa Rica:** al adoptarse en la República Dominicana, **Morpho recibe un ingreso**. Es, aunque modesto, actividad económica propia de Morpho y contribuye a su **sostenibilidad**.
 
 **Costo de uso: [x — por confirmar con Morpho]**
-
----
 
 ## 10. Presupuesto — el criterio
 
