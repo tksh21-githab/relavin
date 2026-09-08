@@ -13,7 +13,7 @@
 | 3 | Ferlannys Octavio Cuevas Sena | República Dominicana | Jefe del Departamento de Inclusión (Dirección de Servicios Sociales y Desarrollo) | Ayuntamiento del Distrito Nacional (Santo Domingo) |
 | 4 | Alfredo Ignacio Cisneros Romero | México | Asesor — desarrollo de proyectos en salud y salud mental; Grupo de Trabajo de Cuidados | Cámara de Diputados de México |
 | 5 | Josefa del Carmen Méndez González | Nicaragua | Coordinadora del Programa «Todos con Vos» | Ministerio de Salud |
-| 6 | David Enmanuel Cabrera Alvarenga | Paraguay | Director de la Dirección de Programas de Formación Inclusiva | Servicio Nacional de Promoción Profesional (SNPP) |
+| 6 | Andrea Nahomi González Ayala | Paraguay | Officer, División Administrativa | INTN — Instituto Nacional de Tecnología, Normalización y Metrología |
 | 7 | Astrid Carolina Flores Huamaní | Perú | Especialista en Políticas Públicas (Subdirección de Políticas Públicas) | CONADIS — Consejo Nacional para la Integración de la Persona con Discapacidad |
 
 ---
@@ -25,7 +25,7 @@
 - **República Dominicana — Ayuntamiento del Distrito Nacional:** gobierno municipal de la capital. El Departamento de Inclusión está dentro de la Dirección de Servicios Sociales y Desarrollo — nivel **municipal**, no nacional.
 - **México — Cámara de Diputados:** poder legislativo federal.
 - **Nicaragua — «Todos con Vos»:** programa nacional de atención a personas con discapacidad, dependiente del Ministerio de Salud.
-- **Paraguay — SNPP:** Servicio Nacional de Promoción Profesional, la institución estatal de formación técnico-profesional; dirige los programas de formación inclusiva.
+- **Paraguay — INTN:** Instituto Nacional de Tecnología, Normalización y Metrología, el organismo estatal de normalización, metrología y certificación de conformidad.
 - **Perú — CONADIS:** la autoridad nacional de discapacidad del Perú.
 
 ---
@@ -37,9 +37,11 @@ Los siete vienen de **cuatro tipos de institución** distintos, lo que da al gru
 - **Universidad** (Bolivia, Costa Rica) — educación superior inclusiva
 - **Gobierno local** (República Dominicana) — servicios municipales
 - **Poder legislativo** (México) — diseño normativo, con cuidados y salud mental en cartera
-- **Administración nacional** (Nicaragua, Paraguay, Perú) — salud, formación profesional y política de discapacidad
+- **Administración nacional** (Nicaragua, Paraguay, Perú) — salud, normalización y política de discapacidad
 
 Perú (CONADIS) y México (Cámara de Diputados) coinciden con dos procesos que la red sigue de cerca: la reglamentación de la asistencia personal en el Perú (DS 001-2026-MIMP) y el Sistema Nacional de Cuidados mexicano.
+
+La presencia de un organismo de **normalización y certificación** (INTN, Paraguay) abre una vía menos habitual. La creación de un estándar de competencia laboral para la figura de **asistente personal** —como el que se elaboró en México a través del CONOCER entre 2024 y 2025— pasa necesariamente por instituciones de este tipo. Es un ángulo poco explorado en la región: el reconocimiento de la asistencia personal como ocupación certificable, y no solo como prestación social.
 
 ---
 
