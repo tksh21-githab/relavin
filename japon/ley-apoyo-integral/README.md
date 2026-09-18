@@ -11,6 +11,7 @@ Traducción de trabajo de **RELAVIN** — Red Latinoamericana de Vida Independie
 |---|---|
 | **¿Qué servicios existen y cómo se accede?** | → [Guía rápida](01%20Gu%C3%ADa%20r%C3%A1pida%20%E2%80%94%20Qu%C3%A9%20servicios%20existen%20y%20c%C3%B3mo%20se%20accede.md) |
 | **Quiero ir a un artículo concreto** | → [Índice de los 175 artículos](%C3%8DNDICE%20%E2%80%94%20Ley%20de%20Apoyo%20Integral%20(Jap%C3%B3n).md) |
+| **¿Cuánta gente lo usa y cuánto cuesta?** | → [El sistema en cifras](02%20Datos%20%E2%80%94%20cu%C3%A1nta%20gente%20usa%20el%20sistema%20y%20cu%C3%A1nto%20cuesta.md) |
 | **¿Cómo se tradujo cada término?** | → [Glosario](00%20Glosario%20y%20criterios%20de%20traducci%C3%B3n.md) |
 
 ## Cómo está organizado
@@ -27,7 +28,7 @@ La guía resume; **para citar, use el texto de los artículos**.
 
 | Parte | Estado |
 |---|---|
-| Glosario, índice y guía | ✅ |
+| Glosario, índice, guía y datos | ✅ |
 | Cap. II, secc. 1 (arts. 6–14) — disposiciones comunes | ✅ |
 | Cap. II, secc. 2 (arts. 19–31) — concesión y pago | ✅ |
 | Arts. 36 y 42–44 — designación de proveedores y estándares | en preparación |
