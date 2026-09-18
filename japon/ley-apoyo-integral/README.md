@@ -35,6 +35,14 @@ La guía resume; **para citar, use el texto de los artículos**.
 
 Los capítulos VIII a X (recursos, disposiciones varias, sanciones) y las disposiciones adicionales no se traducirán: para una lectura comparada no aportan.
 
+## ¿Necesita un artículo que todavía no está traducido?
+
+**Pídalo y lo traducimos.** No traducimos la ley entera de una vez a propósito: preferimos ir completando lo que de verdad se necesita, en el orden en que hace falta.
+
+Busque el artículo en el [índice](%C3%8DNDICE%20%E2%80%94%20Ley%20de%20Apoyo%20Integral%20(Jap%C3%B3n).md) —están los 175 con su contenido— y díganos el número. Si está preparando una ley, un reglamento o un programa y no sabe qué artículo mira su caso, cuéntenos el problema y lo ubicamos nosotros.
+
+Escríbanos a **relavin2024@gmail.com** o abra un *issue* en este repositorio.
+
 ## Fuentes
 
 - Texto japonés vigente: **e-Gov 法令API** (Gobierno de Japón)

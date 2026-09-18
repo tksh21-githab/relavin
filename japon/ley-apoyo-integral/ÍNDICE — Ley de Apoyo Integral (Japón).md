@@ -196,3 +196,13 @@ Arts. 79 a 86: inicio de actividad, estándares de los servicios y de los centro
 Los capítulos VIII, IX y X (recursos, disposiciones varias, sanciones) **tienen poco valor para una lectura comparada**. Se sugiere no traducirlos y dejar solo este índice.
 
 Las **disposiciones adicionales** (139 artículos, 52.674 caracteres) son transitorias y de modificación de otras leyes: **no se traducirán**.
+
+---
+
+## Pida el artículo que necesite
+
+Este índice está pensado para eso: **ver qué contiene cada artículo y pedir el que haga falta.** No traducimos la ley entera de golpe; vamos completando según lo que se necesita realmente.
+
+Si encuentra aquí un artículo marcado con ◻️ que le sirve para su trabajo, díganos el número y lo traducimos. Y si está diseñando una norma o un programa y no sabe qué artículo mira su caso, describa el problema y lo ubicamos.
+
+**relavin2024@gmail.com**
