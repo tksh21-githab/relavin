@@ -72,10 +72,10 @@ Traducción al español del documento original en japonés (`20260703093320.pdf`
 
 | Fecha        | Horario | Tipo | Contenido                  |
 | ------------ | ------- | ---- | -------------------------- |
-| 29/10 (jue)  |         |      | Traslado                   |
-| 30/10 (vie)  |         |      | Traslado                   |
-| 31/10 (sáb) |         |      | Traslado a Pérez Zeledón |
-| 1/11 (dom)   |         |      | Día libre                 |
+| 29/10 (jue)  |         |      | Traslado                      |
+| 30/10 (vie)  |         |      | Llegada a Costa Rica          |
+| 31/10 (sáb) |         |      | Día libre en San José        |
+| 1/11 (dom)   |         |      | Traslado a Pérez Zeledón    |
 
 ---
 
