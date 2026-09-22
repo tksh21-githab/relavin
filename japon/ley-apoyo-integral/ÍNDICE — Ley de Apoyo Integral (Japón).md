@@ -13,6 +13,7 @@ La ley tiene **175 artículos y unos 82.000 caracteres** en su parte principal. 
 
 | Quiero entender… | Vaya a |
 |---|---|
+| **Vengo del curso de Okinawa y quiero ubicar los servicios de la lámina** | [Entrada por el mapa de servicios](03%20Entrada%20por%20el%20mapa%20de%20servicios%20(curso%20de%20Okinawa).md) |
 | **Qué servicios existen** | [art. 28](Cap%20II%20Secc%202%20—%20Concesión%20y%20prestación%20(arts.%2019-31).md#artículo-28-servicios-comprendidos) · art. 5 |
 | **Cómo se accede: solicitud, valoración y resolución** | [arts. 19 a 22](Cap%20II%20Secc%202%20—%20Concesión%20y%20prestación%20(arts.%2019-31).md#artículo-19-resolución-de-concesión-de-la-prestación-de-asistencia-y-otras) |
 | **Cómo se fijan las horas** | [art. 22, apdo. 7](Cap%20II%20Secc%202%20—%20Concesión%20y%20prestación%20(arts.%2019-31).md#artículo-22-resolución-sobre-la-procedencia-de-la-concesión) |
