@@ -26,7 +26,7 @@ _Orden: países en orden alfabético; dentro de cada país, por nombre._
 
 | Nombre completo | Organización |
 |---|---|
-| **Jimena Luna** | Fundación de Vida Independiente Chile |
+| **Jimena Luna** | Fundación de Vida Independiente Chile — representante |
 | **Priscilla Chantal Álvarez Vidal** | Fundación de Vida Independiente Chile |
 | **Víctor Alfonso Ulloa Jara** | Fundación de Vida Independiente Chile |
 
