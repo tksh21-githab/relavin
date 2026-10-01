@@ -93,7 +93,7 @@ _Orden: países en orden alfabético; dentro de cada país, por nombre._
 
 | Nombre completo | Organización |
 |---|---|
-| **Bárbara Ventura** | Asociación Luchando Contra Viento y Marea (Lima) — representante |
+| **Bárbara Ventura** | Asociación Luchando Contra Viento y Marea (Lima) — presidenta; miembro del Movimiento de Vida Independiente Perú |
 | **Luz Noelia Ochoa Merma** | Centro de Vida Independiente «Vida Propia» (Arequipa) — miembro de la junta directiva |
 | **María Alejandra Zavaleta Aurazo** | Ministerio de Salud — MINSA (Lima) |
 | **Roy Jorge Castro Goyzueta** | Asociación Centro de Vida Independiente «Vida Propia» (Arequipa) — representante |
@@ -102,7 +102,7 @@ _Orden: países en orden alfabético; dentro de cada país, por nombre._
 
 | Nombre completo | Organización |
 |---|---|
-| **Cristina Antonia Francisco Reyes** | CIMUDIS — Círculo de Mujeres con Discapacidad — representante |
+| **Cristina Antonia Francisco Reyes** | CIMUDIS — Círculo de Mujeres con Discapacidad — fundadora y presidenta |
 
 ## Uruguay
 
