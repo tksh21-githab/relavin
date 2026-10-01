@@ -80,7 +80,7 @@ _Orden: países en orden alfabético; dentro de cada país, por nombre._
 
 | Nombre completo | Organización |
 |---|---|
-| **Ana Eliceda Fisher Santamaría** | Fundación «Totus Tuus» (Todo Tuyo, María) — representante |
+| **Ana Eliceda Fisher Santamaría** | Fundación «Totus Tuus» (Todo Tuyo María), de Personas con Discapacidad Motriz — Presidente y Representante Legal |
 
 ## Paraguay
 
