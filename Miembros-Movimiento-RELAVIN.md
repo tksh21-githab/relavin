@@ -19,8 +19,8 @@ _Orden: países en orden alfabético; dentro de cada país, por nombre._
 
 | Nombre completo | Organización |
 |---|---|
-| **Fidelia Feliza Alí Ramos** | REBIVO — Red de Vida Independiente Bolivia — presidenta |
-| **Gary Nelson Ramírez Sunagua** | Divertad |
+| **Fidelia Feliza Alí Ramos** | REVIBO — Red de Vida Independiente Bolivia — presidenta |
+| **Gary Nelson Ramírez Sunagua** | Asociación Divertad (Potosí) — representante |
 
 ## Chile
 
