@@ -108,6 +108,6 @@ _Orden: países en orden alfabético; dentro de cada país, por nombre._
 
 | Nombre completo | Organización |
 |---|---|
-| **Adriana Andrea Paciel Navarro** | Centro de Vida Independiente Becky Sabah — secretaria general |
-| **Gerardo Daniel Grassi Gaudin** | Centro de Vida Independiente Becky Sabah — representante |
+| **Adriana Andrea Paciel Navarro** | Centro de Vida Independiente Becky Sabah — secretaria |
+| **Gerardo Daniel Grassi Gaudin** | Centro de Vida Independiente Becky Sabah — presidente |
 | **Raquel María González Barnech** | Asociación de Mujeres Uruguayas con Discapacidad — representante |
