@@ -19,7 +19,7 @@ _Orden: países en orden alfabético; dentro de cada país, por nombre._
 
 | Nombre completo | Organización |
 |---|---|
-| **Fidelia Feliza Alí Ramos** | REVIBO — Red de Vida Independiente Bolivia — presidenta |
+| **Fidelia Feliza Alí Ramos** | REVIBO — Red de Vida Independiente Bolivia — representante |
 | **Gary Nelson Ramírez Sunagua** | Asociación Divertad (Potosí) |
 
 ## Chile
@@ -58,7 +58,7 @@ _Orden: países en orden alfabético; dentro de cada país, por nombre._
 
 | Nombre completo | Organización |
 |---|---|
-| **Rosario Angélica Gonzáles Morales** (Angélica) | PADIVI — Asociación de Personas con Discapacidad y Vida Independiente — directora |
+| **Rosario Angélica Gonzáles Morales** (Angélica) | PADIVI — Asociación de Personas con Discapacidad y Vida Independiente — representante |
 | **Esdras Isaac Morales Ramírez** | PADIVI |
 
 ## Honduras
@@ -80,7 +80,7 @@ _Orden: países en orden alfabético; dentro de cada país, por nombre._
 
 | Nombre completo | Organización |
 |---|---|
-| **Ana Eliceda Fisher Santamaría** | Fundación «Totus Tuus» (Todo Tuyo, María) — presidenta |
+| **Ana Eliceda Fisher Santamaría** | Fundación «Totus Tuus» (Todo Tuyo, María) — representante |
 
 ## Paraguay
 
@@ -96,7 +96,7 @@ _Orden: países en orden alfabético; dentro de cada país, por nombre._
 | **Bárbara Ventura** | Asociación Luchando Contra Viento y Marea (Lima) — representante |
 | **Luz Noelia Ochoa Merma** | Centro de Vida Independiente «Vida Propia» (Arequipa) — miembro de la junta directiva |
 | **María Alejandra Zavaleta Aurazo** | Ministerio de Salud — MINSA (Lima) |
-| **Roy Jorge Castro Goyzueta** | Asociación Centro de Vida Independiente «Vida Propia» (Arequipa) — director |
+| **Roy Jorge Castro Goyzueta** | Asociación Centro de Vida Independiente «Vida Propia» (Arequipa) — representante |
 
 ## República Dominicana
 
