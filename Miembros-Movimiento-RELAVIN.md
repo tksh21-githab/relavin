@@ -11,7 +11,7 @@ _Orden: países en orden alfabético; dentro de cada país, por nombre._
 
 | Nombre completo | Organización |
 |---|---|
-| **Gabriela Bruno** | Partido Socialista — Secretaría de Discapacidad (nivel nacional), Santa Fe |
+| **Gabriela Bruno** | Partido Socialista — Secretaria de Discapacidad (nivel nacional), Santa Fe; Asociación Civil Sonando; vicepresidenta de la Región Cono Sur de COPPPAL Mujeres |
 | **Julián Vázquez** | Asociación Azul (La Plata, Buenos Aires) |
 | **María Belén Frías** | Fundación Arkho (Córdoba) — directora técnica; y Observatorio Nacional de Discapacidad |
 
@@ -51,7 +51,7 @@ _Orden: países en orden alfabético; dentro de cada país, por nombre._
 | Nombre completo | Organización |
 |---|---|
 | **Federico Antonio Mora Navaro** | Asociación Somos Patria (Santo Domingo de los Tsáchilas) |
-| **María Teresa del Carmen Caiza Hernández** | ex funcionaria del MIES (Calceta) |
+| **María Teresa del Carmen Caiza Hernández** | Voluntaria de FUCFORMIDM — Fundación de Capacitación y Formación Microempresarial para Personas con Discapacidad y Adultos Mayores; miembro del MIIC-Ecuador (Movimiento de Intelectuales Católicos) |
 | **Yobani Patiño** | CONADIS (Quito) — funcionario |
 
 ## Guatemala
