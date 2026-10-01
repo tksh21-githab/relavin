@@ -52,7 +52,7 @@ _Orden: países en orden alfabético; dentro de cada país, por nombre._
 |---|---|
 | **Federico Antonio Mora Navaro** | Asociación Somos Patria (Santo Domingo de los Tsáchilas) |
 | **María Teresa del Carmen Caiza Hernández** | Voluntaria de FUCFORMIDM — Fundación de Capacitación y Formación Microempresarial para Personas con Discapacidad y Adultos Mayores; miembro del MIIC-Ecuador (Movimiento de Intelectuales Católicos) |
-| **Yobani Patiño** | CONADIS (Quito) — funcionario |
+| **Yobani Patiño** | FAVID — Fundación Autonomía y Vida Independiente para las Personas con Discapacidad; CONADIS — Consejo Nacional para la Igualdad de Discapacidades |
 
 ## Guatemala
 
