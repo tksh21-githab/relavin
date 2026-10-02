@@ -34,8 +34,8 @@ _Orden: países en orden alfabético; dentro de cada país, por nombre._
 
 | Nombre completo | Organización |
 |---|---|
-| **Aydee Montero Ramírez** | Fundación Tobé — Centro de Vida Independiente — representante |
-| **Luisa Fernanda Barragán Martínez** | Fundación Tobé — Centro de Vida Independiente |
+| **Aydee Montero Ramírez** | Fundación Tobé — Centro de Vida Independiente — directora ejecutiva |
+| **Luisa Fernanda Barragán Martínez** | Fundación Tobé — Centro de Vida Independiente — coordinadora del programa individual de vida independiente |
 
 ## Costa Rica
 
