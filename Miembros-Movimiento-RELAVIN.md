@@ -50,7 +50,7 @@ _Orden: países en orden alfabético; dentro de cada país, por nombre._
 
 | Nombre completo | Organización |
 |---|---|
-| **Federico Antonio Mora Navaro** | Asociación Somos Patria (Santo Domingo de los Tsáchilas) |
+| **Federico Antonio Mora Navaro** | Fundación Somos Patria de Personas con Discapacidad (Santo Domingo de los Tsáchilas) — presidente; vocero y coordinador provincial de la Coordinadora Nacional de Discapacidades; asambleísta ciudadano provincial y cantonal de Santo Domingo de los Tsáchilas |
 | **María Teresa del Carmen Caiza Hernández** | Voluntaria de FUCFORMIDM — Fundación de Capacitación y Formación Microempresarial para Personas con Discapacidad y Adultos Mayores; miembro del MIIC-Ecuador (Movimiento de Intelectuales Católicos) |
 | **Yobani Patiño** | FAVID — Fundación Autonomía y Vida Independiente para las Personas con Discapacidad; CONADIS — Consejo Nacional para la Igualdad de Discapacidades |
 
